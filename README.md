@@ -3,6 +3,7 @@ Candidate Information
 Name: Shivesh Gupta
 
 Colab Link: Click here to view Colab Notebook
+Direct URL: https://colab.research.google.com/drive/1mDGfrF19l6SBPYOFVs-qBwfud4xXwVEF?usp=sharing
 
 Project Overview
 This project analyzes the correlation between Bitcoin market sentiment (Fear & Greed Index) and historical trader behavior on the Hyperliquid exchange. The goal is to identify if trading against the crowd ("Contrarian Strategy") yields higher profitability than following the trend.
